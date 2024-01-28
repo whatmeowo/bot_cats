@@ -1,0 +1,6 @@
+0 cat pet
+1 cheetahs
+2 manul
+3 lions
+4 tigers
+5 leopards
